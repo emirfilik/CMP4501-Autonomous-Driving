@@ -22,7 +22,7 @@
 
 **1. Untrained Agent (0 Timesteps)**
 
-https://github.com/user-attachments/assets/ca1fea3a-90f4-4110-8553-55ca6fe0dbea
+https://github.com/user-attachments/assets/ca1fea3a-90f4-4110-9553-55ca6fe0dbea
 
 **2. Half-Trained Agent (10.000 Timesteps)**
 
