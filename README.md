@@ -20,7 +20,7 @@
 
 > The video below shows the agent's progression across three training checkpoints: untrained, half-trained, and fully trained.
 
-[▶ Watch Full Evolution Video](videos/stage3_full.mp4)
+[▶ Watch Full Evolution Video](videos/stage3_rl-video-episode-0.mp4)
 ---
 
 ## 📐 Methodology
