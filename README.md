@@ -18,12 +18,15 @@
 
 ## 🎬 Training Evolution
 
-> The video below shows the agent's progression across three training checkpoints: untrained, half-trained, and fully trained.
+> The videos below shows the agent's progression across three training checkpoints: untrained, half-trained, and fully trained.
+**1. Untrained Agent (0 Timesteps)**
+https://github.com/user-attachments/assets/ca1fea3a-90f4-4110-9553-55ca6fe0dbea
 
+**2. Half-Trained Agent (10.000 Timesteps)**
+https://github.com/user-attachments/assets/63e24f97-9410-4a09-9003-8913224a8d47
 
-
-https://github.com/user-attachments/assets/9100bd85-d7d6-4a07-8f1f-7b2f1d3d205e
-
+**3. Fully Trained Agent (20.000 Timesteps)**
+https://github.com/user-attachments/assets/dd330ce3-50f3-4bf1-9832-592b2e1bb395
 
 ---
 
